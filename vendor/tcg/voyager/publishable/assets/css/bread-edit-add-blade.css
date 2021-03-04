@@ -1,0 +1,13 @@
+.bread-edit-add-blade-form {
+	width:0;
+	height:0;
+	overflow:hidden;
+}
+
+.bread-edit-add-blade-iframe {
+	display:none;
+}
+
+.bread-edit-add-blade-legend {
+	padding: 5px;
+}
