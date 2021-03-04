@@ -1,0 +1,19 @@
+.users-edit-add-blade-img-1 {
+	width:200px; 
+	height:auto; 
+	clear:both; 
+	display:block; 
+	padding:2px; 
+	border:1px solid #ddd; 
+	margin-bottom:10px;
+}
+
+.users-edit-add-blade-d-none {
+	display: none;
+}
+
+.users-edit-add-blade-form {
+	width:0;
+	height:0; 
+	overflow:hidden;
+}

@@ -1,0 +1,23 @@
+.formfields-image-blade-img-1 {
+	max-width:200px; 
+	height:auto; 
+	clear:both; 
+	display:block; 
+	padding:2px; 
+	border:1px solid #ddd; 
+	margin-bottom:10px;
+}
+.formfields-multiple-image-blade-img-1 {
+	max-width:200px; 
+	height:auto; 
+	clear:both; 
+	display:block; 
+	padding:2px; 
+	border:1px solid #ddd; 
+	margin-bottom:5px;
+}
+
+.formfields-multiple-image-blade-setting-container {
+	float:left;
+	padding-right:15px;
+}
